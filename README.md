@@ -19,7 +19,7 @@ Another example could be that you are wondering if a Padding Left and Right of 1
 'padding-left' becomes 'pl'
 'padding-right' becomes 'pr'
 
-Other types of micro-styles you might find useful:
+Other types of micro-style you might find useful:
 
     .c-l {clear: left;}
     .c-b {clear: both;}
